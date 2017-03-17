@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F0445E63-6640-4EFC-909C-3BA5C1C658C2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSDatePicker/ViewController.cs">
+    <Files>
+      <File FileName="XamariniOSDatePicker/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="XamariniOSDatePicker/ViewController.cs" Line="34" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamariniOSDatePicker PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53785F66-4F6E-4445-B0E6-E3856D84F8B8" />
+</Properties>
